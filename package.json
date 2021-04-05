@@ -1,0 +1,13 @@
+{
+  "id": "remind",
+  "name": "Remind",
+  "version": "0.1",
+  "description": "Remind",
+  "main": "index.js",
+  "author": "Hartman Tam <hartmantam@pm.me>",
+  "license": "MIT",
+  "repository": "https://github.com/http403/recipe-remind",
+  "config": {
+    "serviceURL": "https://www.remind.com/log_in"
+  }
+}
