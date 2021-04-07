@@ -6,4 +6,5 @@ A simple intergration between Franz and Remind.
 - [x] Icons
   - [x] PNG
   - [x] SVG
-- [ ] Unread message
+- [x] Unread message
+  - [ ] Optimize the selector
